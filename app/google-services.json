@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1068653332543",
+    "firebase_url": "https://cloudpanda-e1879.firebaseio.com",
+    "project_id": "cloudpanda-e1879",
+    "storage_bucket": "cloudpanda-e1879.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068653332543:android:b37817fa2efe3b2c",
+        "android_client_info": {
+          "package_name": "com.eam.paula.cloudpanda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068653332543-lov93jeh3frd7s1o4lsclg07oebu6g77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eam.paula.cloudpanda",
+            "certificate_hash": "51920c0fb43bb124d293af2ce3dbbd76185c1961"
+          }
+        },
+        {
+          "client_id": "1068653332543-ahbl5amb830ajab5uds2em5ahuu4dlrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa-xTyCPG_V1R5AcvtLyEQKvO0nyNtMec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068653332543-ahbl5amb830ajab5uds2em5ahuu4dlrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
